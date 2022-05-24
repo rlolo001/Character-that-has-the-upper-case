@@ -1,4 +1,4 @@
-public class firstCapitalLetter {
+public class FirstCapitalLetter {
 
     public static char firstUpperCase(String stringWord, int i) {
         //create an if statement to write the base case (when to stop), when char reach 0 character
