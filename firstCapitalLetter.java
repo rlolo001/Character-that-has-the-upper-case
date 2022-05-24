@@ -1,11 +1,4 @@
-package com.company;
-/*
-Slide 16
-Write a program in Java to find the first capital letter in a string using recursion
-
- */
-
-public class ExerciseB {
+public class firstCapitalLetter {
 
     public static char firstUpperCase(String stringWord, int i) {
         //create an if statement to write the base case (when to stop), when char reach 0 character
