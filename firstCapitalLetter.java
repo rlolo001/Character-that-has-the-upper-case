@@ -20,7 +20,7 @@ public class FirstCapitalLetter {
 
         String string = "2nd i Is Upper case";
 
-        //
+    
         char upperCaseNotGiven = firstUpperCase(string, 0);
 
         if (upperCaseNotGiven == 0)
